@@ -119,7 +119,7 @@ Todd Schumann    | NTIA/Institute for Telecommunication Sciences | tschumann@nti
 
 AJ Cuddeback    | NTIA/Institute for Telecommunication Sciences | acuddeback@ntia.gov
 
-Legal
+License
 -----
 See [LICENSE](LICENSE.md).
 
