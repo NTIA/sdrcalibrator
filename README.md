@@ -1,4 +1,7 @@
 # Introduction 
+
+_This software is under active development and is being released "as-is" for collaboration. It may not be fully functional and should be considered as an alpha release. We welcome community feedback for the repository!_
+
 This readme contains a brief descripton of the sdrcalibrator codebase intended to enable the automated calibration of Software Defined Radios (SDRs). This readme contains 
 - description of github repository contents
 - brief installation guide 
